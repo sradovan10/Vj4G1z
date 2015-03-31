@@ -201,7 +201,7 @@
             // 
             // btnOdigraj
             // 
-            this.btnOdigraj.Location = new System.Drawing.Point(264, 205);
+            this.btnOdigraj.Location = new System.Drawing.Point(264, 221);
             this.btnOdigraj.Name = "btnOdigraj";
             this.btnOdigraj.Size = new System.Drawing.Size(75, 26);
             this.btnOdigraj.TabIndex = 7;
